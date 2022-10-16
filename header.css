@@ -1,0 +1,96 @@
+.header
+{
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    height: 150px;
+    z-index: 3;
+}
+.headertopdiv
+{
+    display: flex;
+    width: 100%;
+    height: 51px;
+    border-bottom: 1px solid black;
+    border-bottom: 1px groove #00000038;
+}
+.headertopdivbutton{
+    position: absolute;
+    border-radius: 33px;
+    height: 30px;
+    width: 100px;
+    background-color: black;
+    left: 824px;
+    top: 10px;
+}
+.headertopdivbutton a{
+    text-decoration: none;
+    color: white;
+}
+#headertopdivtext
+{
+    font-family: sans-serif;
+    font-size: 13px;
+    padding-left: 489px;
+    padding-top: 4px;
+}
+.headerimg
+{
+    position: absolute;
+    padding-left: 467px;
+    padding-top: 17px;
+    size: 42;
+    width: 14px;
+}
+.headerbottomdiv
+{
+     height: 100px;
+    width: 100%;
+    display: flex;
+}
+#headerkfcimg
+{
+    position: absolute;
+    padding-left: 126px;
+    padding-top: 38px;
+}
+#headerbottomdivpara1
+{
+    padding-left: 232px;
+    padding-top: 27px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+#bucketchickenimg
+{
+    position: absolute;
+    height: 52px;
+    padding-left: 1162px;
+    padding-top: 27px;
+}
+#profileimg
+{
+    height: 23px;
+    padding-left: 1038px;
+    padding-top: 43px;
+    position: absolute;
+}
+#signinclass
+{
+    position:absolute;
+    padding-left: 1076px;
+    padding-top: 45px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+#signinclasss
+{
+    position:absolute;
+    padding-left: 1147px;
+    padding-top: 45px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+}
